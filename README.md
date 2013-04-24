@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Phonegap Bluetooth Eklentisi #
 
 Projeyi geliştirmeyi durdurdum. Kodları referans olması için bırakıyorum.
@@ -14,3 +15,9 @@ For English please see [README_EN.md].
    [BluetoothPlugin]: https://github.com/phonegap/phonegap-plugins/tree/master/Android/BluetoothPlugin
    [LICENSE]: https://github.com/huseyinkozan/phonegap-bluetooth/blob/master/LICENSE
    [onload]: http://www.w3schools.com/jsref/event_body_onload.asp
+=======
+android.phonegap-bluetooth
+==========================
+
+Android Phonegap Bluetooth
+>>>>>>> 55a25dc7b45e2c930d7abb369ba84c538c8e6b1c
